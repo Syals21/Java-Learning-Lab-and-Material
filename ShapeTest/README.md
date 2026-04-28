@@ -139,4 +139,4 @@ ShapeTest/
 
 **Created**: 25/5/2025  
 **Language**: Java  
-**Difficulty Level**: Beginner
+**Programming Level**: Intermediate

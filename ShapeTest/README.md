@@ -137,26 +137,6 @@ ShapeTest/
 
 ---
 
-## Learning Tips
-
-1. **Understand Inheritance**: Notice how `Cube`, `Cylinder`, and `Rectangle` all inherit from `Shape`
-2. **Study Method Overriding**: Each shape implements `calculateArea()` and `calculateVolume()` differently
-3. **Trace the Code**: Follow the execution flow from user input to calculation output
-4. **Modify and Experiment**: Try adding new shapes or calculation methods
-5. **Practice OOP Principles**: Apply these concepts to create other real-world objects
-
----
-
-## Next Steps to Extend the Project
-
-- Add more shape types (Sphere, Triangle, etc.)
-- Implement interfaces for additional contracts
-- Add exception handling for invalid inputs
-- Create a graphical user interface (GUI) using Swing
-- Write unit tests for shape calculations
-
----
-
 **Created**: 25/5/2025  
 **Language**: Java  
 **Difficulty Level**: Beginner

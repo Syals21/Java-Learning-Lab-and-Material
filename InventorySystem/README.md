@@ -469,6 +469,6 @@ After studying this project, you will understand:
 
 **Created:** 11/1/2026
 **Language:** Java
-**Programming Level:** Intermediate
+**Programming Level:** Advance
 **Topic:** Object-Oriented Programming, Database Connectivity & GUI Development
 **IDE:** NetBeans

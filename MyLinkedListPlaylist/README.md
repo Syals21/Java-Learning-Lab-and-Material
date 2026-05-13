@@ -211,27 +211,9 @@ artist: [q, w, e, r, t]
 [title=e, artist=t]
 ```
 
-## Learning Progression
-
-This project is ideal for:
-- **Beginner Java developers** learning about data structures
-- Understanding how to use built-in Java collections
-- Learning object-oriented principles (classes, objects, encapsulation)
-- Practicing loops and iteration techniques
-
-## Further Enhancements
-
-To expand your learning, consider adding:
-1. Methods to add/remove songs interactively
-2. Search functionality to find songs by title or artist
-3. Display playlist in different formats
-4. Add song duration as a property
-5. Implement custom comparators for sorting
-6. Use ArrayList instead of LinkedList and compare performance
-
 ---
 
-**Created:** May 13, 2026  
+**Created:** 24/11/2025  
 **Language:** Java  
-**Programming Level:** Beginner to Intermediate  
+**Programming Level:** Intermediate  
 **Topic:** Data Structures & Object-Oriented Programming

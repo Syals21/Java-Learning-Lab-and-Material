@@ -466,9 +466,11 @@ After studying this project, you will understand:
 - **Error Handling**: Comprehensive exception handling with try-catch-finally
 
 ---
+## Project Information
 
-**Created:** 11/1/2026
-**Language:** Java
-**Programming Level:** Advance
-**Topic:** Object-Oriented Programming, Database Connectivity & GUI Development
-**IDE:** NetBeans
+- **Created:** 11/1/2026
+- **Language:** Java
+- **Programming Level:** Advance
+- **Topics:** Object-Oriented Programming, Database Connectivity & GUI
+- **IDE:** NetBeans (Recommended)
+- **Build Tool:** Apache Ant

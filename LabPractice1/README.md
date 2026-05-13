@@ -398,21 +398,6 @@ Enter choice: 5
 Exiting program...
 ```
 
-## Learning Objectives
-
-By completing this lab, you will understand:
-
-✓ How to design and implement Java classes with proper encapsulation  
-✓ How to use constructors and getter methods effectively  
-✓ How to override key methods (`toString()`, `equals()`, `compareTo()`)  
-✓ How to create and use custom exception classes  
-✓ How to implement the Comparable interface for natural ordering  
-✓ How to implement the Comparator interface for custom sorting  
-✓ How to use LinkedList for dynamic data storage  
-✓ How to handle exceptions with try-catch blocks  
-✓ How to build interactive console applications with user menus  
-✓ How to search and manipulate collections efficiently  
-
 ## Project Information
 
 | Detail | Value |

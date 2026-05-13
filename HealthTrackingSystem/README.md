@@ -389,5 +389,3 @@ After completing this project, you will understand:
 | **IDE** | NetBeans |
 
 ---
-
-**Note:** This project is designed for educational purposes to teach intermediate Java concepts through a practical health tracking application.
